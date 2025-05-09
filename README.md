@@ -68,7 +68,6 @@ select * from closest_dealerships
 # 5. Провести выгрузку полученного результата из временной таблицы в CSV
 ![image](https://github.com/user-attachments/assets/e05edaa7-36b7-4d5a-af1a-a39c15110260)
 # 6. Построить карту клиентов и сервисных центров в облачной визуализации Yandex DataLence
-# 7.
 Подключаемся к базе данных Postgres. Создаем датасет и добавляем туда таблицы customers, dealerships и sales. Далее добавляем поля customers и dealerships.Создаем чарт (тип чарта карта).Добавляем два слоя customers и dealerships и создаем тултипы.
 ![image](https://github.com/user-attachments/assets/53491947-da81-42f7-90d5-324361818f2b)
 # Вывод
